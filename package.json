@@ -1,0 +1,13 @@
+{
+  "name": "update_name",
+  "version": "0.0.0",
+  "description": "Update_name bot with Quine",
+  "main": "twitter.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alucky0707/update_name.git"
+  },
+  "author": "alucky0707",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
