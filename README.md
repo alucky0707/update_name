@@ -1,6 +1,6 @@
 #Update_name bot with Quine
 
-最近流行りの _update_name bot_ をNode.jsで書いて、ついでにQuineにしてみました。
+最近流行りの _update\_name bot_ をNode.jsで書いて、ついでにQuineにしてみました。
 
 ##Update_name botとは？
 
@@ -46,11 +46,13 @@ Update_name botとして正常に動作している場合、Twitterで「update_
 
 ##ファイル構成、説明
 
-* config.json  … プログラムの設定をするファイルです。
-* LICENSE      … ライセンスファイル(MITライセンス)です。
-* package.json … npm用のパッケージファイル。ntwitterとentというライブラリに依存しています。
-* README.md    … このファイルです。
-* twitter.js   … プログラム本体。Twitterの鳥の形をしてます。
+|ファイル名   |説明                                                                        |
+|:------------|:---------------------------------------------------------------------------|
+|config.json  | プログラムの設定をするファイルです。                                       |
+|LICENSE      | ライセンスファイル(MITライセンス)です。                                    |
+|package.json | npm用のパッケージファイル。 [ntwitter] と [ent] というライブラリに依存しています。 |
+|README.md    | このファイルです。                                                         |
+|twitter.js   | プログラム本体。Twitterの鳥の形をしてます。                                |
 
 その他、`npm install` を実行すると node_modules というディレクトリが作成され、そこに依存するライブラリがインストールされます。
 
@@ -64,8 +66,10 @@ Update_name botとして正常に動作している場合、Twitterで「update_
 
 - - -
 
-Australia's captial city is Mekbourne!
+Australia's captial city is Mekbourne!  
 Copyright (c) 2014 alucky0707
 
 [Quine]: http://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AF%E3%82%A4%E3%83%B3_(%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0)
+[ntwitter]: https://github.com/AvianFlu/ntwitter
+[ent]: https://github.com/substack/node-ent
 
