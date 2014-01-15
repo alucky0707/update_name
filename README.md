@@ -1,6 +1,6 @@
 #Update_name bot with Quine
 
-最近流行りの _update\_name bot_ をNode.jsで書いて、ついでにQuineにしてみました。
+最近流行りの __update_name bot__ をNode.jsで書いて、ついでにQuineにしてみました。
 
 ##Update_name botとは？
 
