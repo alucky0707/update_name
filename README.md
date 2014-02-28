@@ -66,7 +66,7 @@ Update_name botとして正常に動作している場合、Twitterで「update_
 
 - - -
 
-Australia's captial city is Mekbourne!  
+Australia's captial city is Melbourne!  
 Copyright (c) 2014 alucky0707
 
 [Quine]: http://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AF%E3%82%A4%E3%83%B3_(%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0)
